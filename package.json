@@ -1,0 +1,15 @@
+{
+  "name": "divide-array-bitt",
+  "version": "1.0.1",
+  "description": "Given an array arr and a chunk size, return a chunked array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chunk",
+    "Array"
+  ],
+  "author": "Bittu",
+  "license": "ISC"
+}
